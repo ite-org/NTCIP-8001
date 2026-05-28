@@ -6,9 +6,6 @@
 
 # General {.body}
 
-!!! question
-    Should this be considered version 1, 2, or 3; or perhaps 1.1 or 1.2, or 2.1?
-
 ## Scope {.body}
 
 This document contains the policies, processes and procedures that provide the operational framework for the development and maintenance of NTCIP standards and supporting documents. It is not a comprehensive organizational-type document or manual. It is used to establish policies that are deemed important to maintaining the integrity of the NTCIP project’s products and to define processes and procedures that ensure repeated success. The procedures described in this document are the result of a number of years of evolution, driven both by the needs of the growing and increasingly diverse community, and by experience.
@@ -21,12 +18,12 @@ The following documents are referenced by this document. At the time of publicat
 
 Normative references contain provisions that, through reference in this text, constitute provisions of this document. All standards are subject to revision, and parties to agreements based on this standard are encouraged to investigate the possibility of applying the most recent editions of the standard listed.
 
-|  Identifier   | Title |
-| ------------- | ----- |
+| Identifier | Title |
+| ---------- | ----- |
 | Essential Requirements | _ANSI Essential Requirements: Due process requirements for American National Standards_, ANSI, January 2025. |
-| MOU NTCIP JC  | _Memorandum of Understanding Between the American Association of State Highway and Transportation Officials, Institute of Transportation Engineers, (and) National Electrical Manufacturers Association for the formation and operation of the Joint AASHTO / ITE / NEMA Committee on the NTCIP._ Washington, DC; AASHTO, ITE, & NEMA. (1996). |
+| MOU NTCIP JC | _Memorandum of Understanding Between the American Association of State Highway and Transportation Officials, Institute of Transportation Engineers, (and) National Electrical Manufacturers Association for the formation and operation of the Joint AASHTO / ITE / NEMA Committee on the NTCIP._ Washington, DC; AASHTO, ITE, & NEMA. (1996). |
 | MOU NTCIP IPR | _Memorandum of Understanding on Copyright, Trademark, and Publishing Administration for the National Transportation Communications for ITS Protocol (NTCIP) among the American Association of State Highway and Transportation Officials, the Institute of Transportation Engineers, and the National Electrical Manufacturers Association._ Washington, DC; AASHTO, ITE, NEMA. (1998). |
-| NTCIP 8002    | _NTCIP JC NTCIP 8002 National Transportation Communications for ITS Protocol NTCIP Standards Publication Format v01.10._ Washington, DC: NEMA; NTCIP Joint Committee. (2008). |
+| NTCIP 8002 | _NTCIP JC NTCIP 8002 National Transportation Communications for ITS Protocol NTCIP Standards Publication Format v01.10._ Washington, DC: NEMA; NTCIP Joint Committee. (2008). |
 
 ### Contact Information {.body}
 
@@ -45,7 +42,7 @@ Draft amendments, which are under discussion by the relevant NTCIP Working Group
 This document provides the framework for the development and management of the standards and other supporting documents that make up the enterprise known as the National Transportation Communications for ITS Protocol (NTCIP) joint standardization project. It has been developed for:
 
 1. The standards development organizations (SDOs), American Association of State Highway and Transportation Officials (AASHTO), Institute of Transportation Engineers (ITE), and National Electrical Manufacturers Association (NEMA), that have joined in a memorandum of understanding (MOU) to develop NTCIP standards;
-2. The consultants, manufacturers, and public transportation professionals who participate in the development of NTCIP standards providing domain expertise, quality assurance, assistance to deployers, and ongoing standards maintenance;
+2. The consultants, manufacturers, and public transportation professionals who participate in the development of NTCIP standards providing domain expertise, quality assurance, assistance to deployments, and ongoing standards maintenance;
 3. The United States Department of Transportation (USDOT) Intelligent Transportation Systems (ITS) Joint Program Office (JPO) which has sponsored much of the work; and
 4. The transportation industry as a whole that depends upon quality standards produced from this project to create operational equipment, software and systems.
 
@@ -75,18 +72,27 @@ Polices, processes and procedures are written in the present tense and avoid the
 
 ### Metadata
 
-Each policy, process, and procedure has the following metadata:
+!!! note
+    Updated text
 
-- Section Number and Title – The title is not to be excessively long.
+Each policy, process, and procedure in this document has the following static metadata and values:
+
+- Approved By – All policies are approved by the process defined in this document
+- Contact – The contact for each policy contained in this document is the [NTCIP Coordinator](mailto:ntcip@nema.org)
+- Applies To – The policies defined in this document apply to the NTCIP Joint Committee and its working groups.
+
+Each policy, process, and procedure in this document has the following additional metadata:
+
+- Section Number and Title – As shown in the document; the title is not to be excessively long.
 - Effective Date – Date when the policy took effect.
-- Approved By – Typically the NTCIP Coordinator or the NTCIP JC.
-- Contact – The point of contact associated for the item. The point of contact is to be one of the project rolls identified in Section 1.4.
-- Supersedes – Title and date of any policies superseded by this policy.
 - Last Reviewed/Updated – Date when the policy was last reviewed or updated.
-- Applies To – The project rolls of those the policy applies to.
+- Details – i.e., the text of the policy, process, or procedure, which should include: a) the situation(s) when it does or does not apply, b) the major conditions or restrictions and c) any exclusions or special situations.
+
+Each policy, process, and procedure may also be associated with the following metadata:
+
+- Supersedes – Title and date of any policies superseded by this policy.
 - History – History of major changes to the policy.
 - Related Items – Items that have a related concern or are causally connected.
-- Details – State the policy, process, or procedure. Include: a) the situation(s) when it does or does not apply, b) the major conditions or restrictions and c) any exclusions or special situations.
 
 ## Terms {.body}
 
@@ -95,7 +101,7 @@ For the purposes of this document, the following terms and definitions apply. Te
 | **Term** | **Definition** |
 | -------- | -------------- |
 | Comment | A submission from an individual or company during a review period of a work item. A comment may take the form of a question, a confirmation, or suggest a change to the work item under review. |
-| Contributor  | An individual who contributes to the development of NTCIP standards or related documents. |
+| Contributor | An individual who contributes to the development of NTCIP standards or related documents. |
 | Intelligent Transportation Systems (ITS) | The application of advanced information processing and communications, sensing, and control technologies to surface transportation with the objective of promoting more efficient use of the existing highway and transportation network, increasing safety and mobility, and decreasing the environmental cost of travel. |
 | Interoperability | The ability of two or more systems or components to exchange information and use the information that has been exchanged.From IEEE Standards Dictionary, Glossary of Terms and Definitions. |
 | Liaison | An individual representing an organization with special interest in the NTCIP project identified by the NTCIP JC Chair as a member of the NTCIP JC. Liaisons do not have voting privileges. |

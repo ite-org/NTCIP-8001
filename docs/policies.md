@@ -8,14 +8,11 @@
 
 ## General {.body}
 
-!!! question
-    Is the meta-data presented in an appropriate format?
-
 This section contains the policies of the NTCIP project.
 
 ## Essential Requirements for Open Standards {.body}
 
-### General
+### General {.body}
 
 The policies defined in this section are largely based on the ANSI Essential Requirements.
 
@@ -24,13 +21,8 @@ The policies defined in this section are largely based on the ANSI Essential Req
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 Participation in the NTCIP standards process is open to anyone materially interested in its work. There are no fees for participation nor are there any requirements for membership in any organization.
 
@@ -43,13 +35,8 @@ Membership lists for each active WG are maintained and available upon request, a
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort ensures a lack of dominance by any single interest category, individual, or organization by ensuring that all key decisions are made by consensus vote with a balanced voting membership and a defined appeals process.
 
@@ -58,38 +45,33 @@ The NTCIP effort ensures a lack of dominance by any single interest category, in
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
-
-The 18 member Joint Committee on the NTCIP ensures balance by granting 6 voting members to each of the 3 SDOs. At the WG level, balance is maintained by ensuring roughly equal participation between public and private sector membership.
-
-!!! question
-    The WG voting membership seems to be problematic. Some have complained about how voting memberships are granted while reaching quorum has been challenging at times. Do we want to revisit how we handle voting membership and requirements for attendance? For example, one approach would be to designate a percent of the vote to each membership category and then all participants from that category would vote to determine a weighted vote from the category.
 
 !!! note
-    According to ANSI, no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. This suggests that dividing between public/private at the ASC WG level is insufficient and we might ought to consider:
+    Updated text
 
-    - producer (or NEMA?)
-    - user (or AASHTO?)
-    - general interest/neither of the above (or ITE?)
+The NTCIP structure attempts to respect the ANSI requirements for balance, which requires that no single interest category should constitute more than 1/3rd of the membership when dealing with safety-related standards. Per ANSI, the interest categories are generally defined as:
+    - producer,
+    - user, and
+    - general interest
+
+Within the 18 member Joint Committee on the NTCIP, which is achieved by granting 6 voting members to each of the 3 SDOs, where NEMA representatives are considered producers, AASHTO representatives are considered users, and ITE representatives are considered general interest.
+
+At the group level, the technical details can change a representative's interest category. For example, a manufacturer that only produces signal controllers would likely be categorized as a producer for the ASC WG, a a user in the RSU WG, and general interest for the DMS WG. Because groups tend to meet more frequently than the NTCIP JC, maintaining balance at every meeting often proves more challenging. Thus, to address balance within groups, the votes are weighted to ensure that each of the three interest categories represent 1/3rd of the vote total.
+
+!!! example
+    At the WG level, if a vote includes four producers, two users, and one general interest, each producer's vote would be 1/12 of the total; each user's vote would be 1/6 of the total and the general interest voter's vote would count as 1/3 of the total.
+
+!!! question "For JC Discussion"
+    Some have complained about how the current voting memberships are granted while public/private membership split does not satisfy the ANSI requirements  In addition, reaching quorum has also been a challenge at times. This text represents the current position of the WG on how to overcome these problems.
 
 ### Coordination and harmonization {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort will coordinate with other SDOs, as deemed appropriate, to ensure that conflicts and overlaps among standards are avoided to the extent practical. In particular, efforts will be made to promote harmonization among the standards of the following SDOs:
 
@@ -107,13 +89,8 @@ The NTCIP effort will coordinate with other SDOs, as deemed appropriate, to ensu
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort will announce its major actions in major industry publications and websites, such as the _ITE Journal_ and the [ITE Website](https://www.ite.org). The major actions include:
 
@@ -126,33 +103,23 @@ The NTCIP effort will announce its major actions in major industry publications 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
-Written comments and objections submitted on any NTCIP document or proposed effort will be recorded by a defined process (e.g., directly by NTCIP staff, through online management through GitHubIssues) and either directly addressed by them or brought to the appropriate body (e.g., JC or WG) for review and response preparation. The response will then be provided to the commenter.
+!!! note
+    Updated text
+
+Written comments and objections submitted on any NTCIP document or proposed effort will be recorded by a defined process (e.g., directly by NTCIP staff, through online management through GitHub Issues), which will identify a target time (e.g., one week) for the comment to be triaged and an acknowledgement sent. The acknowledgement may include a response (i.e., in the case of a simple issue) but will more often need to describe the process that will be used to address the comment (e.g., identify the WG that will be notified, whether that WG has a planned meeting, etc.). Once the review process is complete, the commenter will be notified of the resolution.
 
 Unresolved objections, along with the proposed response, will be reported to the parent approval body and members will be allowed to change their vote.
-
-!!! question
-    Do we want to tighten this up? Should we define a target response time, especially for online development?
 
 ### Evidence of Consensus {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
 |**Supersedes:**            |NTCIP Consensus-Based Organization      |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 Consensus is demonstrated for NTCIP documents based on the type of document:
 
@@ -170,13 +137,7 @@ The NTCIP effort will maintain records of consensus for a minimum of seven years
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 Entities that are directly and materially interested in and who have been or will be adversely affected by any procedural action or inaction by the NTCIP effort can submit a written appeal to the NTCIP coordinator, any of the three SDOs, or to the chair of the JC.The appeals process will consider the perspectives of all involved in the process.
 
@@ -187,13 +148,7 @@ Procedural appeals relate to whether the policies, processes, and procedures def
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort will follow the policies, processes, and procedures defined in this document. This document can be updated as needed to reflect lessons learned.
 
@@ -208,13 +163,7 @@ The content of this section is derived from the Normative North American Standar
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 - Participants in the development of Standards, as well as the users of Standards, may have an interest in knowing whether there are provisions in a Standard incorporating someone’s intellectual property, which may require permission to use someone’s proprietary technology and possibly pay compensation for that privilege. The policies of NEMA and ANSI, as well as international Standards organizations, recognize that it is permissible to draft a Standard that includes the use of someone’s patent claims if technical reasons justify it, but Standards developing committees may prefer to avoid incorporating proprietary technology once they know of it.
 - The primary concern of these policies is the identification of essential patent claims. NEMA has defined an essential patent as a claim contained in a patent or published patent application, the use of which is necessary to create a compliant implementation of a mandatory provision in the normative clauses of a NEMA Standard or proposed NEMA Standard when there is no commercially and technically feasible non-infringing alternative. Participants in this standards developing process are obligated to disclose essential patent claims of which they have knowledge. A participant may self-disclose any essential patent claims they or their employer own or control, or a participant may ask NTCIP representatives to query whether another participant or third-party owns or controls any essential patent claims. The obligation to disclose is a continuing one, both before and after a Standard is published.
@@ -225,13 +174,7 @@ The content of this section is derived from the Normative North American Standar
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 NTCIP documents will not include terms or conditions that are primarily contractual or commercial in nature as opposed to technical, engineering, or scientific in nature. For example, NTCIP documents will not include requirements related to specific products or services, warranties, prices, conformity assessment firms, etc.
 
@@ -240,13 +183,7 @@ NTCIP documents will not include terms or conditions that are primarily contract
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort is committed to compliance with antitrust laws and all meetings will be conducted in strict compliance with these antitrust guidelines. Further if an item comes up for which a participant has a conflict of interest, that member should declare the conflict of interest on the matter and recuse themselves from action on that item.
 
@@ -267,13 +204,7 @@ The following discussions and/or exchanges of information by or among competitor
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort will retain the necessary documentation to demonstrate compliance with the policies, processes, and procedures defined in this document for a period of at least 5 years or one standard review period.
 
@@ -282,13 +213,7 @@ The NTCIP effort will retain the necessary documentation to demonstrate complian
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 NTCIP documents will use the International System of Units (SI) as default.
 
@@ -297,18 +222,15 @@ NTCIP documents will use the International System of Units (SI) as default.
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
+
+!!! note
+    Updated text
 
 Request for interpretation can be submitted to the NTCIP Coordinator or to through the online standards development platform (e.g., GitHub), if one is in use for the standard. The request will be reviewed by the appropriate WG and a proposed response will be provided.
 
-!!! question
-    We do not really have a process for this right now, but it is required by ANSI. Is this reasonable?
+!!! note
+    A "Clarification Request" issue type will be provided to facilitate the processing of such requests.
 
 ## Documentation Policies {.body}
 
@@ -317,13 +239,7 @@ Request for interpretation can be submitted to the NTCIP Coordinator or to throu
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP Effort recognizes the following types of documents:
 
@@ -341,13 +257,8 @@ The NTCIP Effort recognizes the following types of documents:
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
 |**History:**               |Added IFR in 2026                       |
-|**Related Policies:**      |None                                    |
 
 The NTCIP effort recognizes three levels of standardization for its documents (other than registries), as discussed below. Not all documents are expected to become standards.
 
@@ -363,13 +274,7 @@ The NTCIP effort recognizes three levels of standardization for its documents (o
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2017                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 All NTCIP documents have the same basic naming convention. The full title of any NTCIP document is of the following format, with explanations as below:
 
@@ -433,18 +338,12 @@ The PreReleaseNumber shall start at 0 for the initial draft of a new effort (new
 
 Errata are only applicable to documents using the traditional standards development process.
 
-## Code of Ethics and Conduct
+## Code of Ethics and Conduct {.body}
 
 |**Parameter**              |**Value**                               |
 |---------------------------|----------------------------------------|
 |**Effective Date:**        |September 30, 2026                      |
-|**Approved By:**           |NTCIP Joint Committee                   |
-|**Policy Contact:**        |NTCIP Coordinator                       |
-|**Supersedes:**            |N/A                                     |
 |**Last Reviewed/Updated:** |September 30, 2026                      |
-|**Applies To:**            |NTCIP Joint Committee and Working Groups|
-|**History:**               |None                                    |
-|**Related Policies:**      |None                                    |
 
 The NTCIP community tries to maintain a positive and collaborative atmosphere for the development of standards. Participants should:
 

@@ -2,7 +2,7 @@
   "MD033": {
     "allowed_elements": [
       "style",
-      "div"
+      "div", "br"
     ]
   },
   "MD013": false,
