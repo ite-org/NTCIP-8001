@@ -44,7 +44,7 @@ Each of the three SDO members of the NTCIP effort is responsible for:
 5. Coordination of technical work among SDOs and among Joint Committees
 6. Consideration of appeals
 
-#### Termination
+#### Termination {.body}
 
 Rules for an SDO to terminate its participation within the NTCIP are defined in the joint agreement among participating SDOs.
 
@@ -118,7 +118,7 @@ Quorum is established by a simple majority of the current voting membership.
 
 #### Voting {.body}
 
-In general, the NTCIP JC operates on a consensus basis. However, when needed to resolve conflicts and when required by adopted procedures, the NTCIP JC will undertake formal votes. Unless otherwise stated in detailed processes, decisions by the JC are made by simple majority of those voting (i.e., more than half of the votes cast) when a quorum is available. Voting by correspondence is allowed and abstentions are considered in quorum determination but are not considered in the simple majority determination.
+In general, the NTCIP JC operates on a consensus basis ^^(i.e., reasonable attempts are made to resolve all sustained objections)^^. However, when needed to resolve conflicts and when required by adopted procedures, the NTCIP JC will undertake formal votes. Unless otherwise stated in detailed processes, decisions by the JC are made by simple majority of those voting (i.e., more than half of the votes cast) when a quorum is available. Voting by correspondence is allowed and abstentions are considered in quorum determination but are not considered in the simple majority determination.
 
 #### Termination {.body}
 
@@ -167,19 +167,19 @@ Each group is responsible for its scope as defined by the JC. When there is acti
 
 #### Quorum {.body}
 
+!!! question
+    For review
+
 To establish a quorum, a group will have:
 
 1. Representation from a minimum of two members from each membership category applicable to the group and
-2. At least 50% of the voting membership participation from the average of the previous three meetings
+2. At least 50% of the current voting membership
 
-!!! question
-    This makes administration of the WG more challenging, perhaps 67% of the participation from the previous meeting?
-
-A group that does not have, on its roster, at least two members from each applicable membership category will be considered inactive.
+A group that does not have, on its roster, at least two members from each applicable membership category will be considered inactive until the limitation is resolved.
 
 #### Voting {.body}
 
-Each group generally operates by consensus; for example, issues about the text of a draft standard are discussed if there are no sustained objections to the revised text, the discussion can move to the next topic without any formal vote. This promotes speedy development; nonetheless, a member can use Robert's Rules to ask for a vote on the issue to document the level of consensus, if they wish. While most discussions are by consensus, key decisions defined in the development process require formal votes to unambiguously document the level of consensus achieved prior to moving the document to the next stage.
+Each group generally operates by consensus. Specifically, issues about the text of a draft standard are discussed, as necessary. If there are no sustained objections to the revised text, the discussion can move to the next topic without any formal vote. This promotes speedy development; nonetheless, a member can use Robert's Rules to ask for a vote on the issue to document the level of consensus, if they wish. While most discussions are by consensus, key decisions defined in the development process require formal votes to unambiguously document the level of consensus achieved prior to moving the document to the next stage.
 
 There is no maximum number of members for any membership category, but formal votes are weighted to ensure equal voting representation from each of the three membership categories, per ANSI requirements of balance.
 
@@ -376,7 +376,7 @@ The editor is responsible for consolidating all of the comments received to date
 4. Submitting the final comments with resolutions to the NTCIP Coordinator, and
 5. Developing any required standards development report package.
 
-#### Termination
+#### Termination {.body}
 
 The NTCIP Coordinator can remove the editor at any time.
 
@@ -396,7 +396,7 @@ The NTCIP Coordinator can remove the editor at any time.
 |**History:**               |None                                    |
 |**Related Policies:**      |None                                    |
 
-#### Assignment
+#### Assignment {.body}
 
 For online development projects, the NTCIP Coordinator must assign a maintainer. The maintainer can be the editor.
 
@@ -404,7 +404,7 @@ For online development projects, the NTCIP Coordinator must assign a maintainer.
 
 The maintainer is responsible for the tasks defined for this role in [NTCIP 8008](https://ite-org.github.io/NTCIP-8008/). The maintainer is responsible for the management of the online environment and does not need to necessarily be a subject matter expert in relation to the standard; rather the maintainer must be familiar with GitHub operations to ensure that the online environment remains useful, that those submitting comments receive timely acknowledgement, and must coordinate with the editor to ensure subject matter issues are resolved.
 
-#### Termination
+#### Termination {.body}
 
 The NTCIP Coordinator can remove the maintainer at any time.
 
