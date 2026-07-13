@@ -31,13 +31,13 @@ Normative references contain provisions that, through reference in this text, co
 
 Copies of NTCIP standards may be obtained from:
 
-> NTCIP Coordinator<br>National Electrical Manufacturers Association<br>1300 N.17th Street, Suite 900<br>Rosslyn, Virginia 22209-3801<br>[www.ntcip.org](http://www.ntcip.org)<br>e-mail: [ntcip@nema.org](mailto:ntcip@nema.org)
+> NTCIP Coordinator<br>National Electrical Manufacturers Association<br>1300 N.17th Street, Suite 900<br>Rosslyn, Virginia 22209-3801<br>[www.ntcip.org](http://www.ntcip.org)<br>e-mail: [standards@ite.org](mailto:standards@ite.org)
 
 Draft amendments, which are under discussion by the relevant NTCIP Working Group, and amendments recommended by the NTCIP Joint Committee are available.
 
 ## General Statements {.body}
 
-### Document Overview
+### Document Overview {.body}
 
 This document provides the framework for the development and management of the standards and other supporting documents that make up the enterprise known as the National Transportation Communications for ITS Protocol (NTCIP) joint standardization project. It has been developed for:
 
@@ -56,7 +56,7 @@ The remainder of this document is broken into the following chapters:
 - **Annex A** – Proposals that have not yet been incorporated.
 - **Annex B** - Policies, processes, and procedures that have been withdrawn or superseded.
 
-### Distinction among Policies, Processes, and Procedures
+### Distinction among Policies, Processes, and Procedures {.body}
 
 Policies, processes and procedures serve different purposes:
 
@@ -66,19 +66,16 @@ Policies, processes and procedures serve different purposes:
 
 A policy can exist without an associated process or procedure, either because they are not necessary or because a specific process or procedure has not yet been developed. A policy can be associated to multiple processes and procedures.
 
-### Word Choice
+### Word Choice {.body}
 
 Polices, processes and procedures are written in the present tense and avoid the use of the word "shall". Instead, the document uses "must" for an obligation, "must not" for a prohibition, "may" for a discretionary action and "should" for a recommendation.
 
-### Metadata
-
-!!! note
-    Updated text
+### Metadata {.body}
 
 Each policy, process, and procedure in this document has the following static metadata and values:
 
 - Approved By – All policies are approved by the process defined in this document
-- Contact – The contact for each policy contained in this document is the [NTCIP Coordinator](mailto:ntcip@nema.org)
+- Contact – The contact for each policy contained in this document is the [NTCIP Coordinator](mailto:standards@ite.org)
 - Applies To – The policies defined in this document apply to the NTCIP Joint Committee and its working groups.
 
 Each policy, process, and procedure in this document has the following additional metadata:
